@@ -17,7 +17,7 @@ steering = "neutral"
 kick_ready = True
 
 # Sensitivity thresholds
-KNEE_DIFF_THRESHOLD = 0.015
+KNEE_DIFF_THRESHOLD = 0.012
 ARM_EXTENSION_THRESHOLD = 0.05
 KICK_FORWARD_THRESHOLD = 0.01
 
